@@ -1,0 +1,15 @@
+{
+  "client": {
+    "environment": "sandbox",
+    "paypal_sdk_version": "2.0.0",
+    "platform": "iOS",
+    "product_name": "PayPal iOS SDK;"
+  },
+  "response": {
+    "create_time": "2014-02-12T22:29:49Z",
+    "id": "PAY-564191241M8701234KL57LXI",
+    "intent": "sale",
+    "state": "approved"
+  },
+  "response_type": "payment"
+}
